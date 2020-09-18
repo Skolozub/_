@@ -1,12 +1,1 @@
-"eslint-config-prettier",
-"eslint-config-standard",
-"eslint-plugin-compat",
-"eslint-plugin-import",
-"eslint-plugin-node",
-"eslint-plugin-prettier",
-"eslint-plugin-promise",
-"eslint-plugin-react",
-"eslint-plugin-react-hooks",
-"eslint-plugin-simple-import-sort",
-"eslint-plugin-standard",
-"prettier"
+npm i -D prettier eslint-config-standard eslint-config-prettier eslint-plugin-standard eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-promise eslint-plugin-compat eslint-plugin-import eslint-plugin-node eslint-plugin-simple-import-sort
